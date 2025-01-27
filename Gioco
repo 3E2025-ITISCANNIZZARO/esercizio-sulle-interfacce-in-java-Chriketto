@@ -2,7 +2,7 @@ public class Gioco {
     public static void main(String[] args) {
         
         SuperEroe superEroe = new SuperEroe();
-        Licantropo licantropo = new Licantropo(false); // Non è luna piena
+        Licantropo licantropo = new Licantropo(false); 
         Vampiro vampiro = new Vampiro();
 
         
